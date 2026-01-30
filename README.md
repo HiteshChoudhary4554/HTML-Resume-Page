@@ -15,3 +15,8 @@ Open the live link or open index.html file locally.
 Link:- https://hiteshchoudhary4554.github.io/HTML-Resume-Page/
 
 ## Screenshots
+![Resume Preview-1](./images/HTML%20Resume%20Page%20-1.png)
+![Resume Preview-2](./images/HTML%20Resume%20Page%20-2.png)
+
+## Resume PDF
+📄 [Download Resume (PDF)](/HTML%20Resume%20Page.pdf)
